@@ -19,7 +19,7 @@
   + **jQuery**
    `<script src='http://code.jquery.com/jquery-1.8.3.min.js'></script>`
   + **This Plguin**
-   `<script src='https://code.google.com/p/syuemingfang-plugin/source/browse/js/plugin.js'></script>`
+   `<script src='https://syuemingfang-plugin.googlecode.com/git/js/plugin.js'></script>`
  2. **Usage**
   + **Format**  This Plugin accepts settings from an object of key/value pairs.
    `$(selector).plugin({key: value...})`
