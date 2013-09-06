@@ -1,18 +1,22 @@
 /*!
 
 # Plugin jQuery Plugin
-*a demo plugin for jQuery.*
+  a demo plugin for jQuery. 
 
-+ Version: 0.1.0.0
-+ Copyright © 2013 [Syue](mailtot:syuemingfang@gmail.com). All rights reserved.
-+ Date: *Thu Aug 29 2013 11:16:29 GMT+0800 (Central Standard Time)*
+  CDN: <input value='https://code.google.com/p/syuemingfang-plugin/source/browse/js/plugin.js' class='form-control'/>
+
+  [GitHub project](https://github.com/syuemingfang/syuemingfang-plugin)
 
 ****************************************************************************************************/
 
 /*!
 
++ Version: 0.1.0.0
++ Copyright © 2013 [Syue](mailtot:syuemingfang@gmail.com). All rights reserved.
++ Date: *Thu Aug 29 2013 11:16:29 GMT+0800 (Central Standard Time)*
+
 ## Examples
- 1. **Standard** [Demo by JS Bin](https://jsbin.com)
+ 1. **Standard** [Power by Cinderella](http://html.cxm.tw/?url=https://raw.github.com/syuemingfang/syuemingfang-plugin/master/example.html)
 
 ## How to Use
  1. **Setup** include this javascript files in your header.
