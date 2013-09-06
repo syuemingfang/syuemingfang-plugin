@@ -3,7 +3,7 @@
 # Plugin jQuery Plugin
   a demo plugin for jQuery. 
 
-  CDN: <input value='https://code.google.com/p/syuemingfang-plugin/source/browse/js/plugin.js' class='form-control'/>
+  CDN: <input value='https://syuemingfang-plugin.googlecode.com/git/js/plugin.js' class='form-control'/>
 
   [GitHub project](https://github.com/syuemingfang/syuemingfang-plugin)
 
@@ -29,7 +29,7 @@
    `$(selector).plugin({key: value...})`
   + **Example**
      + `$('button').plugin({on: 'click'})`
- 3. **Set** copy code from the <head> and </head> tags and paste it on your page.
+ 3. **Set** copy code from the `<head>` and `</head>` tags and paste it on your page.
 
         <script>
         $(document).ready(function(){
