@@ -4,7 +4,7 @@
 # Plugin jQuery Plugin
   a demo plugin for jQuery. 
 
-  CDN: <input value='https://code.google.com/p/syuemingfang-plugin/source/browse/js/plugin.js' class='form-control'/>
+  CDN: `https://syuemingfang-plugin.googlecode.com/git/js/plugin.js`
 
   [GitHub project](https://github.com/syuemingfang/syuemingfang-plugin)
 
@@ -29,7 +29,7 @@
    `$(selector).plugin({key: value...})`
   + **Example**
      + `$('button').plugin({on: 'click'})`
- 3. **Set** copy code from the <head> and </head> tags and paste it on your page.
+ 3. **Set** copy code from the `<head>` and `</head>` tags and paste it on your page.
 
         <script>
         $(document).ready(function(){
@@ -41,8 +41,10 @@
 ## Options
 + **on** an object in which the string keys represent one or more space-separated event types and optional namespaces, and the values represent a handler function to be called for the event(s).
 + **str** a message
+****************************************************************************************************
 ## API
 + **log(str)** outputs a message to the web console.
+****************************************************************************************************
 ## Function
 + **initialize()**
 + **start()**
