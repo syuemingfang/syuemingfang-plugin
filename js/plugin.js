@@ -12,7 +12,7 @@
 /*!
 
 + Version: 0.1.0.0
-+ Copyright © 2013 [Syue](mailtot:syuemingfang@gmail.com). All rights reserved.
++ Copyright © 2013 [Syue](mailto:syuemingfang@gmail.com). All rights reserved.
 + Date: *Thu Aug 29 2013 11:16:29 GMT+0800 (Central Standard Time)*
 
 ## Examples
@@ -48,6 +48,7 @@
       on: 'click', //!+ **on** an object in which the string keys represent one or more space-separated event types and optional namespaces, and the values represent a handler function to be called for the event(s).
       str: 'Hello World' //!+ **str** a message
     },
+    //!
     //!****************************************************************************************************
     //!## API
     log: function(str){
@@ -55,6 +56,7 @@
       console.log(str)
     },
   }); 
+  //!
   //!****************************************************************************************************
   //!## Function
   var func=function(that, set){
