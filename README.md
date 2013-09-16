@@ -41,9 +41,11 @@
 ## Options
 + **on** an object in which the string keys represent one or more space-separated event types and optional namespaces, and the values represent a handler function to be called for the event(s).
 + **str** a message
+
 ****************************************************************************************************
 ## API
 + **log(str)** outputs a message to the web console.
+
 ****************************************************************************************************
 ## Function
 + **initialize()**
