@@ -3,7 +3,7 @@
 # Plugin jQuery Plugin
   a demo plugin for jQuery. 
 
-  CDN: <input value='https://syuemingfang-plugin.googlecode.com/git/js/plugin.js' class='form-control'/>
+  CDN: `https://syuemingfang-plugin.googlecode.com/git/js/plugin.js`
 
   [GitHub project](https://github.com/syuemingfang/syuemingfang-plugin)
 
@@ -48,12 +48,14 @@
       on: 'click', //!+ **on** an object in which the string keys represent one or more space-separated event types and optional namespaces, and the values represent a handler function to be called for the event(s).
       str: 'Hello World' //!+ **str** a message
     },
+    //!****************************************************************************************************
     //!## API
     log: function(str){
       //!+ **log(str)** outputs a message to the web console.
       console.log(str)
     },
   }); 
+  //!****************************************************************************************************
   //!## Function
   var func=function(that, set){
     var initialize=function(){
