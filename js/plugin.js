@@ -5,7 +5,7 @@
 
   CDN: `https://syuemingfang-plugin.googlecode.com/git/js/plugin.js`
 
-  [GitHub project](https://github.com/syuemingfang/syuemingfang-plugin)
+  [GitHub project](https://github.com/syuemingfang/syuemingfang-plugin) [Documentation](http://comment.cxm.tw/?url=https://raw.github.com/syuemingfang/syuemingfang-plugin/master/comment.json)
 
 ****************************************************************************************************/
 
