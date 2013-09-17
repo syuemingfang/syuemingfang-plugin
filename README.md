@@ -1,7 +1,4 @@
-﻿
-
-
-# Plugin jQuery Plugin
+﻿# Plugin jQuery Plugin
   a demo plugin for jQuery. 
 
   CDN: `https://syuemingfang-plugin.googlecode.com/git/js/plugin.js`
@@ -12,7 +9,7 @@
 
 
 + Version: 0.1.0.0
-+ Copyright © 2013 [Syue](mailtot:syuemingfang@gmail.com). All rights reserved.
++ Copyright © 2013 [Syue](mailto:syuemingfang@gmail.com). All rights reserved.
 + Date: *Thu Aug 29 2013 11:16:29 GMT+0800 (Central Standard Time)*
 
 ## Examples
@@ -41,11 +38,9 @@
 ## Options
 + **on** an object in which the string keys represent one or more space-separated event types and optional namespaces, and the values represent a handler function to be called for the event(s).
 + **str** a message
-
 ****************************************************************************************************
 ## API
 + **log(str)** outputs a message to the web console.
-
 ****************************************************************************************************
 ## Function
 + **initialize()**

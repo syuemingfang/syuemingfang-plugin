@@ -43,6 +43,7 @@
   var f=$.fn.plugin;
   $.extend(f, {
     version: '0.1.0.0',
+    //!
     //!## Options
     set: {
       on: 'click', //!+ **on** an object in which the string keys represent one or more space-separated event types and optional namespaces, and the values represent a handler function to be called for the event(s).
