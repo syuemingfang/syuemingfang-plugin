@@ -1,4 +1,7 @@
-﻿# Plugin jQuery Plugin
+﻿
+
+
+# Plugin jQuery Plugin
   a demo plugin for jQuery. 
 
   CDN: `https://syuemingfang-plugin.googlecode.com/git/js/plugin.js`
@@ -14,6 +17,7 @@
 
 ## Examples
  1. **Standard** [Power by Cinderella](http://html.cxm.tw/?url=https://raw.github.com/syuemingfang/syuemingfang-plugin/master/example.html)
+ 2. **Debug** [Power by jsPipe](http://jspipe.cxm.tw/?url=http://html.cxm.tw/index.php?url=https://raw.github.com/syuemingfang/syuemingfang-plugin/master/example.html)
 
 ## How to Use
  1. **Setup** include this javascript files in your header.
